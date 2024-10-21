@@ -11,7 +11,7 @@ name: Java Selenium Tests
 on:
   push:
     branches:
-      - main
+      - sample-git
   pull_request:
     branches:
       - main
